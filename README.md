@@ -1,22 +1,22 @@
-apiVersion v58
-kind: Human
-metadata
-  name: Todd Jones
-spec:
-  purpose: To learn as much as I can & share
+- apiVersion v58
+- kind: Human
+- metadata
+-  name: Todd Jones
+- spec:
+- purpose: To learn as much as I can & share
 
 
 
 
-favorites:
-  number: 2's
-  animal: 
-  emoji:
-  food:
-  drink: 
+- favorites:
+-  number: 2's
+-  animal: 
+-  emoji:
+-  food:
+-  drink: 
 
 
-
+extra fluff
 - 👋 Hi, I’m @Morpheusara
 - 👀 I’m interested in ... Going Fast / Tech
 - 🌱 I’m currently learning ... CKA
